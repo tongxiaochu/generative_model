@@ -1,4 +1,4 @@
 # generative_model
 Generative Model for De Novo Drug Design
 
-##使用生成网络生成新的化合物、化合物文库。
+## new molecular
